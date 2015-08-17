@@ -1,0 +1,15 @@
+/*Input*/
+.ws_website_settings_input {
+	/*width:38%;*/
+	margin:0;
+	width:38%;
+}
+
+/*Text Area*/
+.ws_website_settings_textarea {
+	/*width:78%;*/
+	height:6.5em;
+	margin:0;
+	max-width:88%;
+	min-width:48%;
+}
